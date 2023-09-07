@@ -64,6 +64,14 @@ Flask is a minimalistic and flexible web framework for Python that empowers deve
 
 ![Screenshot](ui_testing_screenshot_6.gif)
 
+### Scenario-7:
+
+![Screenshot](ui_testing_screenshot_7.gif)
+
+### Scenario-8:
+
+![Screenshot](ui_testing_screenshot_8.gif)
+
 
 <hr>
 
