@@ -29,7 +29,7 @@ Flask is a minimalistic and flexible web framework for Python that empowers deve
 
 ### Libraries used:
 
-<b>Grid.js</b>: AG Grid Community is an open-source JavaScript library that provides powerful and useful information for web applications. It allows developers to create interactive databases with rich data and grids with features such as sorting, filtering, groups, and pages. Known for its performance and simplicity, the AG Grid Community allows users to handle large files and customize the look and behavior of the grid. It has powerful features yet is free to use, making it a popular choice for web developers.
+<b>AG Grid Community</b>: AG Grid Community is an open-source JavaScript library that provides powerful and useful information for web applications. It allows developers to create interactive databases with rich data and grids with features such as sorting, filtering, groups, and pages. Known for its performance and simplicity, the AG Grid Community allows users to handle large files and customize the look and behavior of the grid. It has powerful features yet is free to use, making it a popular choice for web developers.
 
 <b>Ajax</b>: Ajax, short for asynchronous JavaScript and XML, is a web development method that facilitates the exchange of data between a web server and a web page without reloading the entire page. It does this by enabling partial updates, making web applications more dynamic and responsive, improving the user experience. It enables asynchronous communication using Ajax, JavaScript and data formats such as XML or JSON, facilitating real-time interactions and reducing the need for page refreshes.
 
